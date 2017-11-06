@@ -1,0 +1,11 @@
+C:\Users\Liza\Documents\Visual Studio 2013\Projects\Калина\Калина\bin\Release\Калина.exe.config
+C:\Users\Liza\Documents\Visual Studio 2013\Projects\Калина\Калина\bin\Release\Калина.exe
+C:\Users\Liza\Documents\Visual Studio 2013\Projects\Калина\Калина\bin\Release\Калина.pdb
+C:\Users\Liza\Documents\Visual Studio 2013\Projects\Калина\Калина\obj\Release\Калина.Form1.resources
+C:\Users\Liza\Documents\Visual Studio 2013\Projects\Калина\Калина\obj\Release\Калина.Form2.resources
+C:\Users\Liza\Documents\Visual Studio 2013\Projects\Калина\Калина\obj\Release\Калина.Form3.resources
+C:\Users\Liza\Documents\Visual Studio 2013\Projects\Калина\Калина\obj\Release\Калина.Properties.Resources.resources
+C:\Users\Liza\Documents\Visual Studio 2013\Projects\Калина\Калина\obj\Release\Калина.csproj.GenerateResource.Cache
+C:\Users\Liza\Documents\Visual Studio 2013\Projects\Калина\Калина\obj\Release\Калина.exe
+C:\Users\Liza\Documents\Visual Studio 2013\Projects\Калина\Калина\obj\Release\Калина.pdb
+C:\Users\Liza\Documents\Visual Studio 2013\Projects\Калина\Калина\obj\Release\Калина.csprojResolveAssemblyReference.cache

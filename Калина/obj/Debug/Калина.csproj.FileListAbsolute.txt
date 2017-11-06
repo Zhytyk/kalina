@@ -1,0 +1,28 @@
+c:\users\liza\documents\visual studio 2013\Projects\Калина\Калина\bin\Debug\Калина.exe.config
+c:\users\liza\documents\visual studio 2013\Projects\Калина\Калина\bin\Debug\Калина.exe
+c:\users\liza\documents\visual studio 2013\Projects\Калина\Калина\bin\Debug\Калина.pdb
+c:\users\liza\documents\visual studio 2013\Projects\Калина\Калина\obj\Debug\Калина.csprojResolveAssemblyReference.cache
+c:\users\liza\documents\visual studio 2013\Projects\Калина\Калина\obj\Debug\Калина.Form1.resources
+c:\users\liza\documents\visual studio 2013\Projects\Калина\Калина\obj\Debug\Калина.Properties.Resources.resources
+c:\users\liza\documents\visual studio 2013\Projects\Калина\Калина\obj\Debug\Калина.csproj.GenerateResource.Cache
+c:\users\liza\documents\visual studio 2013\Projects\Калина\Калина\obj\Debug\Калина.exe
+c:\users\liza\documents\visual studio 2013\Projects\Калина\Калина\obj\Debug\Калина.pdb
+C:\Users\Liza\Documents\Visual Studio 2013\Projects\Калина\Калина\obj\Debug\Калина.Form2.resources
+C:\Users\Liza\Documents\Visual Studio 2013\Projects\Калина\Калина\obj\Debug\Калина.Form3.resources
+C:\Users\Liza\Documents\Visual Studio 2013\Projects\Калина\Калина\obj\Debug\Калина.Form4.resources
+d:\КАЛИНА\Калина\Калина\bin\Debug\Калина.exe.config
+d:\КАЛИНА\Калина\Калина\obj\Debug\Калина.exe
+d:\КАЛИНА\Калина\Калина\obj\Debug\Калина.pdb
+D:\Калина\Калина\bin\Debug\Калина.exe.config
+D:\Калина\Калина\bin\Debug\Калина.exe
+D:\Калина\Калина\bin\Debug\Калина.pdb
+D:\Калина\Калина\obj\Debug\Калина.csprojResolveAssemblyReference.cache
+D:\Калина\Калина\obj\Debug\Калина.Form1.resources
+D:\Калина\Калина\obj\Debug\Калина.Form2.resources
+D:\Калина\Калина\obj\Debug\Калина.Form3.resources
+D:\Калина\Калина\obj\Debug\Калина.Form4.resources
+D:\Калина\Калина\obj\Debug\Калина.Properties.Resources.resources
+D:\Калина\Калина\obj\Debug\Калина.csproj.GenerateResource.Cache
+D:\Калина\Калина\obj\Debug\Калина.csproj.CoreCompileInputs.cache
+D:\Калина\Калина\obj\Debug\Калина.exe
+D:\Калина\Калина\obj\Debug\Калина.pdb
